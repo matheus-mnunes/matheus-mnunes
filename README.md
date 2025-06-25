@@ -11,7 +11,7 @@
 <br>
 
 <div align="center">
-  <img src="https://tenor.com/pt-BR/view/hello-gojo-satoru-gojo-satoru-gif-7810568014399403739.gif" width="200">
+  <img src="https://tenor.com/pt-BR/view/hello-gojo-satoru-gojo-satoru-gif-7810568014399403739.gif" width="300">
 </div>
 
 <br>
@@ -56,14 +56,8 @@
   />
   </div>
 
-  ##
   
-  <div align="center">
-  <samp>
-    <b>
-      Linguagens e Ferramentas:
-    </b>
-  </samp>
+<div align="center">
   
   <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg"/>
@@ -76,11 +70,26 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
   
   </div>
-
 </div>
 
 ##
 
+<div align="center">
+  <samp>
+    <b>
+      Entre em contato:
+    </b>
+  </samp>
+  <br>
+  <br>
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-050f2c?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:matheusnunescontato03@gmail.com)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-050f2c?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5569993040758)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-050f2c?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/matheushmnunes/)
+  
+  ##
+
 </details>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=102b79&height=100&section=footer"/>
