@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=102b79"/>
 <div align="center">
   <samp>
-      Hi there! I'm Matheus Nunes
+      Olá pessoal! Eu sou o Matheus Nunes
   </samp>
 </div>
 <div align="center">
