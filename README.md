@@ -32,13 +32,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-mnunes&layout=compact&font=Iosevka&langs_count=16&theme=algolia"
   />
   <br>
-  <br>
-  <img
-    align="center"
-    alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheus-mnunes&theme=algolia"
-  />
-  <br>
+
   <br>
   <img
     height=165
