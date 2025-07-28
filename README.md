@@ -8,11 +8,15 @@
   <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=21&c=00aeff&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
 </div>
 
+#
+
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba. Atualmente trabalho com Go e estudo Java paralelamente.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+  
+#
 <br>
 
 <details align="center">  
-  <br>
-
 <br>
 <div align="center">
   <img
@@ -59,23 +63,6 @@
   
   </div>
 </div>
-
-##
-
-<div align="center">
-  <samp>
-    <b>
-      Entre em contato:
-    </b>
-  </samp>
-  <br>
-  <br>
-  
-  [![Gmail](https://img.shields.io/badge/Gmail-050f2c?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:matheusnunescontato03@gmail.com)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-050f2c?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5569993040758)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-050f2c?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/matheushmnunes/)
-  
-  ##
 
 </details>
 
