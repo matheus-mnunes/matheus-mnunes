@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=102b79"/>
 <div align="center">
   <samp>
-      Olá pessoal! Eu sou o Matheus Nunes
+      Oi! Eu me chamo Matheus Nunes
   </samp>
 </div>
 <div align="center">
@@ -10,19 +10,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://tenor.com/pt-BR/view/hello-gojo-satoru-gojo-satoru-gif-7810568014399403739.gif" width="300">
-</div>
-
-<br>
-
 <details align="center">  
-  <summary>
-      <samp>
-        <b>Mais Informações</b>
-      </samp>
-  </summary>
-  
   <br>
 
 <br>
