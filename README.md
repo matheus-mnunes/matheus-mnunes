@@ -20,13 +20,13 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <br>
 <div align="center">
   <img
-    height=165
+    height=150
     align="center"
     alt="GitHub Stats"
     src="https://github-readme-stats.vercel.app/api/?username=matheus-mnunes&show_icons=true&count_private=true&rank_icon=github&theme=algolia&font=Iosevka"
   />
   <img
-    height=165
+    height=150
     align="center"
     alt="Top Language"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-mnunes&layout=compact&font=Iosevka&langs_count=16&theme=algolia"
@@ -41,7 +41,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <br>
   <br>
   <img
-    height=144
+    height=165
     align="center"
     alt="Top Language"
     src="https://github-readme-streak-stats.herokuapp.com?user=matheus-mnunes&theme=algolia&card_width=875"
