@@ -41,7 +41,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <br>
   <br>
   <img
-    height=154
+    height=144
     align="center"
     alt="Top Language"
     src="https://github-readme-streak-stats.herokuapp.com?user=matheus-mnunes&theme=algolia&card_width=875"
